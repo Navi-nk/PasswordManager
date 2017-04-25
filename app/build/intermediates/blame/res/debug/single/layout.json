@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\Naval\\PasswordManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pwd_change_alertview.xml",
+        "source": "D:\\Naval\\PasswordManager\\app\\src\\main\\res\\layout\\pwd_change_alertview.xml"
+    },
+    {
+        "merged": "D:\\Naval\\PasswordManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pwd_change.xml",
+        "source": "D:\\Naval\\PasswordManager\\app\\src\\main\\res\\layout\\pwd_change.xml"
+    },
+    {
+        "merged": "D:\\Naval\\PasswordManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pwd_secques.xml",
+        "source": "D:\\Naval\\PasswordManager\\app\\src\\main\\res\\layout\\pwd_secques.xml"
+    },
+    {
+        "merged": "D:\\Naval\\PasswordManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\userpwd_change.xml",
+        "source": "D:\\Naval\\PasswordManager\\app\\src\\main\\res\\layout\\userpwd_change.xml"
+    },
+    {
+        "merged": "D:\\Naval\\PasswordManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\passwordmain_navdrawer.xml",
+        "source": "D:\\Naval\\PasswordManager\\app\\src\\main\\res\\layout\\passwordmain_navdrawer.xml"
+    },
+    {
+        "merged": "D:\\Naval\\PasswordManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "D:\\Naval\\PasswordManager\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "D:\\Naval\\PasswordManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_password_saver.xml",
+        "source": "D:\\Naval\\PasswordManager\\app\\src\\main\\res\\layout\\activity_password_saver.xml"
+    },
+    {
+        "merged": "D:\\Naval\\PasswordManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "D:\\Naval\\PasswordManager\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "D:\\Naval\\PasswordManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signup_page.xml",
+        "source": "D:\\Naval\\PasswordManager\\app\\src\\main\\res\\layout\\signup_page.xml"
+    },
+    {
+        "merged": "D:\\Naval\\PasswordManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pwd_change2.xml",
+        "source": "D:\\Naval\\PasswordManager\\app\\src\\main\\res\\layout\\pwd_change2.xml"
+    },
+    {
+        "merged": "D:\\Naval\\PasswordManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\passwordsaver_secondpage.xml",
+        "source": "D:\\Naval\\PasswordManager\\app\\src\\main\\res\\layout\\passwordsaver_secondpage.xml"
+    },
+    {
+        "merged": "D:\\Naval\\PasswordManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_childitem.xml",
+        "source": "D:\\Naval\\PasswordManager\\app\\src\\main\\res\\layout\\drawer_list_childitem.xml"
+    },
+    {
+        "merged": "D:\\Naval\\PasswordManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pwd_list.xml",
+        "source": "D:\\Naval\\PasswordManager\\app\\src\\main\\res\\layout\\pwd_list.xml"
+    },
+    {
+        "merged": "D:\\Naval\\PasswordManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pwd_expand_list.xml",
+        "source": "D:\\Naval\\PasswordManager\\app\\src\\main\\res\\layout\\pwd_expand_list.xml"
+    },
+    {
+        "merged": "D:\\Naval\\PasswordManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pwd_add_page.xml",
+        "source": "D:\\Naval\\PasswordManager\\app\\src\\main\\res\\layout\\pwd_add_page.xml"
+    }
+]

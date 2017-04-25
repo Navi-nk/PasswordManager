@@ -1,0 +1,7 @@
+#Tue Apr 25 17:52:16 SGT 2017
+base.0=D\:\\Naval\\PasswordManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c3af6bfa8e0553d8c516e0cea7a594e064e0f7e2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Naval\\PasswordManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_aed6c1e126c59b78bfdb1257becc49f98e34e56d\\classes.dex
+base.1=D\:\\Naval\\PasswordManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_aed6c1e126c59b78bfdb1257becc49f98e34e56d
+file.0=D\:\\Naval\\PasswordManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c3af6bfa8e0553d8c516e0cea7a594e064e0f7e2\\classes.dex

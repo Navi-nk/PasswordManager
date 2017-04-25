@@ -1,0 +1,4 @@
+#Tue Apr 25 17:52:15 SGT 2017
+base.0=D\:\\Naval\\PasswordManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=D\:\\Naval\\PasswordManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

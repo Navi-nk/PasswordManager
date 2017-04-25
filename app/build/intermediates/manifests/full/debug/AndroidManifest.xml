@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.naval_passwordsaver"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.naval_passwordsaver.MainPage"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.naval_passwordsaver.PasswordSaver_Activity" >
+        </activity>
+        <activity android:name="com.example.naval_passwordsaver.Passwordmain_page" >
+        </activity>
+        <activity android:name="com.example.naval_passwordsaver.Signup_form" >
+        </activity>
+        <activity android:name="com.example.naval_passwordsaver.Setting_page" >
+        </activity>
+        <activity android:name="com.example.naval_passwordsaver.Pwd_Add" >
+        </activity>
+        <activity android:name="com.example.naval_passwordsaver.About" >
+        </activity>
+        <activity
+            android:name="com.example.naval_passwordsaver.Pwd_List"
+            android:label="@string/app_name1" >
+        </activity>
+        <activity android:name="com.example.naval_passwordsaver.Pwd_Manage" >
+        </activity>
+        <activity android:name="com.example.naval_passwordsaver.Pwd_Change1" >
+        </activity>
+        <activity android:name="com.example.naval_passwordsaver.Pwd_Change2" >
+        </activity>
+        <activity android:name="com.example.naval_passwordsaver.Pwd_Delete1" >
+        </activity>
+        <activity android:name="com.example.naval_passwordsaver.Secques_Validate" >
+        </activity>
+        <activity android:name="com.example.naval_passwordsaver.Usrpwd_Change" >
+        </activity>
+        <activity android:name="com.example.naval_passwordsaver.Passwordmain_Navdrawer" >
+        </activity>
+        <activity android:name="com.example.naval_passwordsaver.Pwd_List_Expandlist" >
+        </activity>
+        <activity android:name="com.example.naval_passwordsaver.Password_Search" >
+        </activity>
+        <activity android:name="com.example.naval_passwordsaver.Password_Search_List" >
+        </activity>
+        <activity android:name="com.example.naval_passwordsaver.Pwd_Delete2" >
+        </activity>
+    </application>
+
+</manifest>
